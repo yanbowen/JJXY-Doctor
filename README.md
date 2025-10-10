@@ -1,4 +1,4 @@
-git remote add origin https://github.com/yanbowen/xlc-demo.git
+git remote add origin https://github.com/yanbowen/JJXY-Doctor.git
 
 git branch -M main
 
